@@ -19,7 +19,7 @@ Transformed variable (z)
 Estimated PDF parameters (μ, λ, c) 
 Probability density function plot
 
-4. Live Link
+4. Notebook Link
 
 https://www.kaggle.com/code/sommit/assignment-1-ucs654
 
