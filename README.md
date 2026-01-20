@@ -29,3 +29,5 @@ https://www.kaggle.com/code/sommit/assignment-1-ucs654
 
 predicted probability of the transformed variable
 <img width="717" height="57" alt="image" src="https://github.com/user-attachments/assets/7c977ab4-0a48-400d-8e4c-8e90bee035af" />
+<img width="768" height="538" alt="image" src="https://github.com/user-attachments/assets/c309b9b2-b9e3-4173-a430-7870300d0e9b" />
+
